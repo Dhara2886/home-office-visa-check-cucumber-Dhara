@@ -1,0 +1,23 @@
+2024-06-25 22:06:442 INFO  StartPage :30 - Clicking on AcceptCookies : [[ChromeDriver: chrome on windows (d60d7da3f12d339935bea735800e9f35)] -> xpath: //button[normalize-space()='Accept additional cookies']]
+2024-06-25 22:06:548 INFO  StartPage :35 - Mouse hovering on hide this message text : [[ChromeDriver: chrome on windows (d60d7da3f12d339935bea735800e9f35)] -> xpath: //button[@class='gem-c-cookie-banner__hide-button govuk-button']]
+2024-06-25 22:06:748 INFO  StartPage :40 - Clicking on Start button : [[ChromeDriver: chrome on windows (d60d7da3f12d339935bea735800e9f35)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2024-06-25 22:06:603 INFO  StartPage :30 - Clicking on AcceptCookies : [[ChromeDriver: chrome on windows (8409f3ce09bb38cd93bbe61e27d6c8ae)] -> xpath: //button[normalize-space()='Accept additional cookies']]
+2024-06-25 22:06:695 INFO  StartPage :35 - Mouse hovering on hide this message text : [[ChromeDriver: chrome on windows (8409f3ce09bb38cd93bbe61e27d6c8ae)] -> xpath: //button[@class='gem-c-cookie-banner__hide-button govuk-button']]
+2024-06-25 22:06:891 INFO  StartPage :40 - Clicking on Start button : [[ChromeDriver: chrome on windows (8409f3ce09bb38cd93bbe61e27d6c8ae)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2024-06-25 22:06:345 INFO  SelectNationalityPage :25 - Click on '[[ChromeDriver: chrome on windows (8409f3ce09bb38cd93bbe61e27d6c8ae)] -> id: response]' tab
+2024-06-25 22:06:530 INFO  SelectNationalityPage :30 - Click on '[[ChromeDriver: chrome on windows (8409f3ce09bb38cd93bbe61e27d6c8ae)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-06-25 22:06:708 INFO  ReasonForTravelPage :33 - Click on '[[ChromeDriver: chrome on windows (8409f3ce09bb38cd93bbe61e27d6c8ae)] -> id: response-0]' tab
+2024-06-25 22:06:921 INFO  ReasonForTravelPage :43 - Click on '[[ChromeDriver: chrome on windows (8409f3ce09bb38cd93bbe61e27d6c8ae)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-06-25 22:06:928 INFO  ResultPage :26 - Checking text is Displayed
+2024-06-25 22:06:512 INFO  StartPage :30 - Clicking on AcceptCookies : [[ChromeDriver: chrome on windows (0c55ef063575fdb263faed4e6db0d7a4)] -> xpath: //button[normalize-space()='Accept additional cookies']]
+2024-06-25 22:06:613 INFO  StartPage :35 - Mouse hovering on hide this message text : [[ChromeDriver: chrome on windows (0c55ef063575fdb263faed4e6db0d7a4)] -> xpath: //button[@class='gem-c-cookie-banner__hide-button govuk-button']]
+2024-06-25 22:06:784 INFO  StartPage :40 - Clicking on Start button : [[ChromeDriver: chrome on windows (0c55ef063575fdb263faed4e6db0d7a4)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2024-06-25 22:06:170 INFO  SelectNationalityPage :25 - Click on '[[ChromeDriver: chrome on windows (0c55ef063575fdb263faed4e6db0d7a4)] -> id: response]' tab
+2024-06-25 22:06:360 INFO  SelectNationalityPage :30 - Click on '[[ChromeDriver: chrome on windows (0c55ef063575fdb263faed4e6db0d7a4)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-06-25 22:06:520 INFO  ReasonForTravelPage :48 - Click on '[[ChromeDriver: chrome on windows (0c55ef063575fdb263faed4e6db0d7a4)] -> id: response-1]' tab
+2024-06-25 22:06:692 INFO  SelectNationalityPage :30 - Click on '[[ChromeDriver: chrome on windows (0c55ef063575fdb263faed4e6db0d7a4)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-06-25 22:06:899 INFO  DurationOfStayPage :28 - Click on : longer than 6 monthsmore or less
+2024-06-25 22:06:96 INFO  SelectNationalityPage :30 - Click on '[[ChromeDriver: chrome on windows (0c55ef063575fdb263faed4e6db0d7a4)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-06-25 22:06:239 INFO  WorkTypePage :18 - Click on '[[ChromeDriver: chrome on windows (0c55ef063575fdb263faed4e6db0d7a4)] -> id: response-0]' tab
+2024-06-25 22:06:455 INFO  SelectNationalityPage :30 - Click on '[[ChromeDriver: chrome on windows (0c55ef063575fdb263faed4e6db0d7a4)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-06-25 22:06:459 INFO  ResultPage :31 - Checking text is Displayed
